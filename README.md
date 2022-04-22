@@ -1,16 +1,16 @@
 # HSK-3.0-Word-List
 New 2021 HSK 3.0 Word List from Official PDF
 
-On March __ 2021, the Chinese Ministry of Education Released a new HSK word list ....
+In March, 2021, the Chinese Ministry of Education Released a new HSK word list for the Chinese Proficiency Standards Test 汉语水平考试.
 The new word list was released as a non-searchable PDF and my request for the native files was rejected.
-I used different OCR software to recognize the hanzi and created a CSV with the results. 
+I used different OCR software to recognize the Chinese characters and created a CSV file with the results. 
 These results have been cross referenced with other available word lists in order to ensure accuracy. I believe that this is the most accurate and complete list available. 
 
 Official Word List Source:
 --------------------------
-website:
-PDF file:
+website: http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/t20210329_523304.html
 
+PDF file: http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202103/W020210329527301787356.pdf
 
 Table - first 6 entries
 =====
@@ -48,11 +48,11 @@ Every word in each level is numbered with the first word of each level starting 
 
 OCR
 ---
-This is the raw result of the OCR for each entry in the PDF. This column is just for reference as it is not very useful due to the addition of other non-Hanzi information such as the intended usage of the character in that particular HSK level (eg. "白（形）" in level 1 and "白（副）" in level 3)  
+This is the raw result of the OCR for each entry in the PDF. This column is just for reference as it is not very useful due to the addition of other non-word information such as the intended usage of the word in that particular HSK level (eg. "白（形）" in level 1 and "白（副）" in level 3)  
 
 Hanzi
 -----
-The Hanzi extracted from the OCR column
+The hanzi extracted from the OCR column.
 
 Hanzi_Alternate
 --------------
@@ -71,4 +71,4 @@ This is the how the word was intended to be used in that HSK Level as in the cas
 Please Help
 ==========
 1. Please let me know of any issues or typos and I'll update them or please fork and do a pull request. 
-2. Use this list for your own projects. My main intention is to use this list to create an anki deck for new HSK 3.0 words. 
+2. Use this list for your own projects! My main intention is to use this list to create an anki deck for new HSK 3.0 words. 
