@@ -70,5 +70,5 @@ This is the how the word was intended to be used in that HSK Level as in the cas
 
 Please Help
 ==========
-1. Please let me know of any issues or typos and I'll update them or please fork and do a pull request. 
+1. Please let me know of any issues, typos, or suggestions for improvement!
 2. Use this list for your own projects! My main intention is to use this list to create an anki deck for new HSK 3.0 words. 
